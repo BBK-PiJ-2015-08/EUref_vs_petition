@@ -1,4 +1,4 @@
-"signatures_by_constituency":[
+{"signatures_by_constituency":[
 {"name":"Edinburgh East","ons_code":"S14000022","mp":"Tommy Sheppard MP","signature_count":3748},
 {"name":"Edinburgh North and Leith","ons_code":"S14000023","mp":"Deidre Brock MP","signature_count":5962},
 {"name":"Edinburgh South","ons_code":"S14000024","mp":"Ian Murray MP","signature_count":4434},
@@ -648,4 +648,4 @@
 {"name":"East Kilbride, Strathaven and Lesmahagow","ons_code":"S14000019","mp":"Dr Lisa Cameron MP","signature_count":1338},
 {"name":"Ayr, Carrick and Cumnock","ons_code":"S14000006","mp":"Corri Wilson MP","signature_count":1013},
 {"name":"East Lothian","ons_code":"S14000020","mp":"George Kerevan MP","signature_count":2227},
-{"name":"East Renfrewshire","ons_code":"S14000021","mp":"Kirsten Oswald MP","signature_count":2096}]}}}
+{"name":"East Renfrewshire","ons_code":"S14000021","mp":"Kirsten Oswald MP","signature_count":2096}]}

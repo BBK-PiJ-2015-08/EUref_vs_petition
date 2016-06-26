@@ -5,3 +5,6 @@ Remove irrelevant attributes, and non-UK signatures
 Revalidate JSON
 Convert JSON to CSV using http://konklone.io/json/
 Open up CSV, take out top row, sort Ascending by constituency name (do expand selection).
+Download current version of KML (or use last version) - will download as CSV.
+Remove any stray rows from CSV.
+Overwrite signature count with current signature data from UKonly_incsv.csv

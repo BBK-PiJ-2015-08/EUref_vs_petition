@@ -8,3 +8,7 @@ Open up CSV, take out top row, sort Ascending by constituency name (do expand se
 Download current version of KML (or use last version) - will download as CSV.
 Remove any stray rows from CSV.
 Overwrite signature count with current signature data from UKonly_incsv.csv
+Go to Fusion tables, import the table in.
+Copying buckets from the previous map into "Polygons"-"Fill color"-"Buckets", use the 9-colour, 3-class red scheme from colorbrewer2.org with 100% opacity to colour the buckets.
+Select the appropriate info for the info window.
+Make publicly visible and publish.

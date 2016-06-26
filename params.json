@@ -1,0 +1,6 @@
+{
+  "name": "EUref vs petition",
+  "tagline": "Map visualizing percentage of electorate that signed 2nd referendum petition",
+  "body": "### Data visualization by Jade Dickinson [@_jadedickinson](http://www.twitter.com/_jadedickinson).\r\nData from http://petition.parliament.uk/petitions/131215 , constituency data from wikipedia, constituency polygons from https://github.com/hubgit/boundary-line-constituencies-simplified\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}

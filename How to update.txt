@@ -1,0 +1,6 @@
+How to update
+Find JSON at https://petition.parliament.uk/petitions/131215.json
+Validate using http://jsonlint.com/
+Remove irrelevant attributes, and non-UK signatures
+Revalidate JSON
+Convert JSON to CSV using http://konklone.io/json/

@@ -1,651 +1,1 @@
-name,ons_code,mp,signature_count
-Edinburgh East,S14000022,Tommy Sheppard MP,4090
-Edinburgh North and Leith,S14000023,Deidre Brock MP,6502
-Edinburgh South,S14000024,Ian Murray MP,4908
-Edinburgh South West,S14000025,Joanna Cherry QC MP,3993
-Edinburgh West,S14000026,Michelle Thomson MP,3332
-Banff and Buchan,S14000007,Dr Eilidh Whiteford MP,794
-Falkirk,S14000028,John Mc Nally MP,1489
-Glasgow Central,S14000029,Alison Thewliss MP,3110
-Glasgow East,S14000030,Natalie McGarry MP,707
-Glasgow North,S14000031,Patrick Grady MP,3222
-Glasgow North East,S14000032,Anne McLaughlin MP,1041
-Glasgow North West,S14000033,Carol Monaghan MP,2167
-Glasgow South,S14000034,Stewart Malcolm McDonald MP,2390
-Glasgow South West,S14000035,Chris Stephens MP,989
-Glenrothes,S14000036,Peter Grant MP,772
-Gordon,S14000037,Rt Hon Alex Salmond MP,1978
-Aberdeen North,S14000001,Kirsty Blackman MP,2247
-Inverclyde,S14000038,Ronnie Cowan MP,933
-"Inverness, Nairn, Badenoch and Strathspey",S14000039,Drew Hendry MP,1831
-Kilmarnock and Loudoun,S14000040,Alan Brown MP,1090
-Kirkcaldy and Cowdenbeath,S14000041,Roger Mullin MP,1368
-Lanark and Hamilton East,S14000042,Angela Crawley MP,1301
-Linlithgow and East Falkirk,S14000043,Martyn Day MP,1779
-Livingston,S14000044,Hannah Bardell MP,1753
-Midlothian,S14000045,Owen Thompson MP,1626
-Aberdeen South,S14000002,Callum McCaig MP,2715
-Moray,S14000046,Rt Hon Angus Robertson MP,1225
-Motherwell and Wishaw,S14000047,Marion Fellows MP,828
-Na h-Eileanan an Iar,S14000027,Angus Brendan MacNeil MP,324
-North Ayrshire and Arran,S14000048,Patricia Gibson MP,1095
-North East Fife,S14000049,Stephen Gethins MP,2255
-"Berwickshire, Roxburgh and Selkirk",S14000008,Calum Kerr MP,1696
-Ochil and South Perthshire,S14000050,Ms Tasmina Ahmed-Sheikh MP,1990
-Orkney and Shetland,S14000051,Rt Hon Alistair Carmichael MP,792
-Paisley and Renfrewshire North,S14000052,Gavin Newlands MP,1413
-Paisley and Renfrewshire South,S14000053,Mhairi Black MP,1276
-Perth and North Perthshire,S14000054,Pete Wishart MP,1814
-"Ross, Skye and Lochaber",S14000055,Ian Blackford MP,1386
-Rutherglen and Hamilton West,S14000056,Margaret Ferrier MP,1404
-Stirling,S14000057,Steven Paterson MP,2459
-West Aberdeenshire and Kincardine,S14000058,Stuart Blair Donaldson MP,2481
-West Dunbartonshire,S14000059,Martin Docherty-Hughes MP,977
-Aberavon,W07000049,Stephen Kinnock MP,1180
-Aberconwy,W07000058,Guto Bebb MP,1830
-Aldershot,E14000530,Sir Gerald Howarth MP,3196
-Aldridge-Brownhills,E14000531,Wendy Morton MP,1378
-Altrincham and Sale West,E14000532,Mr Graham Brady MP,5946
-Alyn and Deeside,W07000043,Mark Tami MP,2263
-Amber Valley,E14000533,Nigel Mills MP,1700
-Arfon,W07000057,Hywel Williams MP,2692
-Arundel and South Downs,E14000534,Rt Hon Nick Herbert MP,5028
-Ashfield,E14000535,Gloria De Piero MP,1544
-Ashford,E14000536,Rt Hon Damian Green MP,3652
-Ashton-under-Lyne,E14000537,Angela Rayner MP,1906
-Aylesbury,E14000538,Rt Hon David Lidington MP,4324
-Banbury,E14000539,Victoria Prentis MP,4877
-Barking,E14000540,Rt Hon Dame  Margaret Hodge MP,3078
-Barnsley Central,E14000541,Dan Jarvis MP,1296
-Barnsley East,E14000542,Michael Dugher MP,1059
-Barrow and Furness,E14000543,John Woodcock MP,1927
-Basildon and Billericay,E14000544,Mr John Baron MP,2109
-Basingstoke,E14000545,Rt Hon Maria Miller MP,4228
-Bassetlaw,E14000546,John Mann MP,1730
-Bath,E14000547,Ben Howlett MP,7418
-Batley and Spen,E14000548,,2710
-Battersea,E14000549,Jane Ellison MP,11230
-Beaconsfield,E14000550,Rt Hon Dominic Grieve QC MP,5165
-Beckenham,E14000551,Bob Stewart MP,4833
-Bedford,E14000552,Richard Fuller MP,3571
-Belfast East,N06000001,Gavin Robinson MP,2648
-Belfast North,N06000002,Rt Hon Nigel Dodds MP,2357
-Belfast South,N06000003,Dr Alasdair McDonnell MP,5156
-Belfast West,N06000004,Paul Maskey MP,1922
-Bermondsey and Old Southwark,E14000553,Neil Coyle MP,10865
-Berwick-upon-Tweed,E14000554,Mrs Anne-Marie Trevelyan MP,1995
-Bethnal Green and Bow,E14000555,Rushanara Ali MP,11448
-Beverley and Holderness,E14000556,Graham Stuart MP,2685
-Bexhill and Battle,E14000557,Huw Merriman MP,3638
-Bexleyheath and Crayford,E14000558,Rt Hon David Evennett MP,2177
-Birkenhead,E14000559,Rt Hon Frank Field MP,2474
-"Birmingham, Edgbaston",E14000560,Rt Hon Gisela Stuart MP,3827
-"Birmingham, Erdington",E14000561,Jack Dromey MP,1775
-"Birmingham, Hall Green",E14000562,Mr Roger Godsiff MP,5343
-"Birmingham, Hodge Hill",E14000563,Rt Hon Liam Byrne MP,2496
-"Birmingham, Ladywood",E14000564,Shabana Mahmood MP,4100
-"Birmingham, Northfield",E14000565,Richard Burden MP,2221
-"Birmingham, Perry Barr",E14000566,Mr Khalid Mahmood MP,2502
-"Birmingham, Selly Oak",E14000567,Steve McCabe MP,4152
-"Birmingham, Yardley",E14000568,Jess Phillips MP,2258
-Bishop Auckland,E14000569,Helen Goodman MP,1605
-Blackburn,E14000570,Kate Hollern MP,3079
-Blackley and Broughton,E14000571,Graham Stringer MP,2845
-Blackpool North and Cleveleys,E14000572,Paul Maynard MP,1446
-Blackpool South,E14000573,Gordon Marsden MP,1127
-Blaenau Gwent,W07000072,Nick Smith MP,1066
-Blaydon,E14000574,Mr David Anderson MP,2452
-Blyth Valley,E14000575,Mr Ronnie Campbell MP,1656
-Bognor Regis and Littlehampton,E14000576,Nick Gibb MP,2432
-Bolsover,E14000577,Mr Dennis Skinner MP,1458
-Bolton North East,E14000578,Mr David Crausby MP,2314
-Bolton South East,E14000579,Yasmin Qureshi MP,1978
-Bolton West,E14000580,Chris Green MP,2516
-Bootle,E14000581,Peter Dowd MP,2979
-Boston and Skegness,E14000582,Matt Warman MP,1210
-Bosworth,E14000583,David Tredinnick MP,2632
-Bournemouth East,E14000584,Mr Tobias Ellwood MP,4190
-Bournemouth West,E14000585,Conor Burns MP,3685
-Bracknell,E14000586,Dr Phillip Lee MP,4255
-Bradford East,E14000587,Imran Hussain MP,2465
-Bradford South,E14000588,Judith Cummins MP,1572
-Bradford West,E14000589,Naz Shah MP,3027
-Braintree,E14000590,James Cleverly MP,2688
-Brecon and Radnorshire,W07000068,Chris Davies MP,2226
-Brent Central,E14000591,Dawn Butler MP,6212
-Brent North,E14000592,Barry Gardiner MP,4673
-Brentford and Isleworth,E14000593,Ruth Cadbury MP,8627
-Brentwood and Ongar,E14000594,Rt Hon Sir Eric Pickles MP,3245
-Bridgend,W07000073,Mrs Madeleine Moon MP,2287
-Bridgwater and West Somerset,E14000595,Mr Ian Liddell-Grainger MP,2543
-Brigg and Goole,E14000596,Andrew Percy MP,1519
-"Brighton, Kemptown",E14000597,Simon Kirby MP,6092
-"Brighton, Pavilion",E14000598,Caroline Lucas MP,11937
-Bristol East,E14000599,Kerry McCarthy MP,4422
-Bristol North West,E14000600,Charlotte Leslie MP,5832
-Bristol South,E14000601,Karin Smyth MP,5808
-Bristol West,E14000602,Thangam Debbonaire MP,13610
-Broadland,E14000603,Rt Hon Keith Simpson MP,3291
-Bromley and Chislehurst,E14000604,Robert Neill MP,4563
-Bromsgrove,E14000605,Rt Hon Sajid Javid MP,3064
-Broxbourne,E14000606,Mr Charles Walker MP,2477
-Broxtowe,E14000607,Rt Hon Anna Soubry MP,3951
-Buckingham,E14000608,Rt Hon John Bercow MP,5399
-Burnley,E14000609,Julie Cooper MP,1293
-Burton,E14000610,Andrew Griffiths MP,2188
-Bury North,E14000611,Mr David Nuttall MP,2492
-Bury South,E14000612,Mr Ivan Lewis MP,3149
-Bury St Edmunds,E14000613,Jo Churchill MP,3921
-Caerphilly,W07000076,Wayne David MP,2218
-Calder Valley,E14000614,Craig Whittaker MP,3705
-Camberwell and Peckham,E14000615,Rt Hon Harriet Harman QC MP,9089
-Camborne and Redruth,E14000616,George Eustice MP,2575
-Cambridge,E14000617,Daniel Zeichner MP,10544
-Cannock Chase,E14000618,Amanda Milling MP,1465
-Canterbury,E14000619,Mr Julian Brazier MP,6047
-Cardiff Central,W07000050,Jo Stevens MP,5169
-Cardiff North,W07000051,Craig Williams MP,4767
-Cardiff South and Penarth,W07000080,Stephen Doughty MP,4903
-Cardiff West,W07000079,Kevin Brennan MP,4644
-Carlisle,E14000620,John Stevenson MP,1784
-Carmarthen East and Dinefwr,W07000067,Jonathan Edwards MP,1929
-Carmarthen West and South Pembrokeshire,W07000066,Simon Hart MP,1854
-Carshalton and Wallington,E14000621,Rt Hon Tom Brake MP,3706
-Castle Point,E14000622,Rebecca Harris MP,1364
-Central Devon,E14000623,Mel Stride MP,4191
-Central Suffolk and North Ipswich,E14000624,Dr Poulter MP,3670
-Ceredigion,W07000064,Mr Mark Williams MP,3050
-Charnwood,E14000625,Edward Argar MP,2956
-Chatham and Aylesford,E14000626,Tracey Crouch MP,2002
-Cheadle,E14000627,Mary Robinson MP,4931
-Chelmsford,E14000628,Rt Hon Sir Simon Burns MP,4112
-Chelsea and Fulham,E14000629,Rt Hon Greg Hands MP,9502
-Cheltenham,E14000630,Alex Chalk MP,5810
-Chesham and Amersham,E14000631,Rt Hon Cheryl Gillan MP,5701
-Chesterfield,E14000632,Toby Perkins MP,2292
-Chichester,E14000633,Rt Hon Andrew Tyrie MP,4917
-Chingford and Woodford Green,E14000634,Rt Hon Iain Duncan Smith MP,4160
-Chippenham,E14000635,Michelle Donelan MP,4447
-Chipping Barnet,E14000636,Rt Hon Theresa Villiers MP,7322
-Chorley,E14000637,Rt Hon Lindsay Hoyle MP,2634
-Christchurch,E14000638,Mr Christopher Chope MP,2695
-Cities of London and Westminster,E14000639,Rt Hon Mark Field MP,11035
-City of Chester,E14000640,Christian Matheson MP,4864
-City of Durham,E14000641,Dr Roberta Blackman-Woods MP,3758
-Clacton,E14000642,Mr Douglas Carswell MP,1232
-Cleethorpes,E14000643,Martin Vickers MP,1377
-Clwyd South,W07000062,Susan Elan Jones MP,1609
-Clwyd West,W07000059,Rt Hon David Jones MP,2245
-Colchester,E14000644,Will Quince MP,4305
-Colne Valley,E14000645,Jason McCartney MP,3789
-Congleton,E14000646,Fiona Bruce MP,3422
-Copeland,E14000647,Mr Jamie Reed MP,1647
-Corby,E14000648,Tom Pursglove MP,2976
-Coventry North East,E14000649,Colleen Fletcher MP,2463
-Coventry North West,E14000650,Mr Geoffrey Robinson MP,2782
-Coventry South,E14000651,Mr Jim Cunningham MP,3659
-Crawley,E14000652,Henry Smith MP,3238
-Crewe and Nantwich,E14000653,Edward Timpson MP,2913
-Croydon Central,E14000654,Gavin Barwell MP,4413
-Croydon North,E14000655,Mr Steve Reed MP,5400
-Croydon South,E14000656,Chris Philp MP,5265
-Cynon Valley,W07000070,Rt Hon Ann Clwyd MP,1395
-Dagenham and Rainham,E14000657,Jon Cruddas MP,1944
-Darlington,E14000658,Jenny Chapman MP,2138
-Dartford,E14000659,Gareth Johnson MP,2564
-Daventry,E14000660,Chris Heaton-Harris MP,3155
-Delyn,W07000042,Rt Hon David Hanson MP,1921
-Denton and Reddish,E14000661,Andrew Gwynne MP,2126
-Derby North,E14000662,Amanda Solloway MP,3223
-Derby South,E14000663,Rt Hon Margaret Beckett MP,2320
-Derbyshire Dales,E14000664,Rt Hon Patrick McLoughlin MP,3355
-Devizes,E14000665,Claire Perry MP,3490
-Dewsbury,E14000666,Paula Sherriff MP,3034
-Don Valley,E14000667,Rt Hon Caroline Flint MP,1442
-Doncaster Central,E14000668,Rt Hon Dame  Rosie Winterton MP,1707
-Doncaster North,E14000669,Rt Hon Edward Miliband MP,1144
-Dover,E14000670,Charlie Elphicke MP,2372
-Dudley North,E14000671,Ian Austin MP,1161
-Dudley South,E14000672,Mike Wood MP,1217
-Dulwich and West Norwood,E14000673,Helen Hayes MP,10955
-Dwyfor Meirionnydd,W07000061,Liz Saville Roberts MP,1812
-Ealing Central and Acton,E14000674,Dr Rupa Huq MP,10333
-Ealing North,E14000675,Stephen Pound MP,4837
-"Ealing, Southall",E14000676,Mr Virendra Sharma MP,4126
-Easington,E14000677,Grahame Morris MP,978
-East Antrim,N06000005,Sammy Wilson MP,1744
-East Devon,E14000678,Rt Hon Hugo Swire MP,3964
-East Ham,E14000679,Rt Hon Stephen Timms MP,4986
-East Hampshire,E14000680,Damian Hinds MP,4818
-East Londonderry,N06000006,Mr Gregory Campbell MP,1789
-East Surrey,E14000681,Mr Sam Gyimah MP,4701
-East Worthing and Shoreham,E14000682,Tim Loughton MP,4433
-East Yorkshire,E14000683,Rt Hon Sir Greg Knight MP,2195
-Eastbourne,E14000684,Caroline Ansell MP,3442
-Eastleigh,E14000685,Mims Davies MP,3780
-Eddisbury,E14000686,Antoinette Sandbach MP,2961
-Edmonton,E14000687,Kate Osamor MP,2822
-Ellesmere Port and Neston,E14000688,Justin Madders MP,2493
-Elmet and Rothwell,E14000689,Alec Shelbrooke MP,3287
-Eltham,E14000690,Clive Efford MP,4075
-Enfield North,E14000691,Rt Hon Joan Ryan MP,3412
-"Enfield, Southgate",E14000692,Mr David Burrowes MP,6026
-Epping Forest,E14000693,Mrs Eleanor Laing MP,3512
-Epsom and Ewell,E14000694,Rt Hon Chris Grayling MP,5578
-Erewash,E14000695,Maggie Throup MP,2260
-Erith and Thamesmead,E14000696,Teresa Pearce MP,2630
-Esher and Walton,E14000697,Dominic Raab MP,7300
-Exeter,E14000698,Rt Hon Ben Bradshaw MP,5525
-Fareham,E14000699,Suella Fernandes MP,3509
-Faversham and Mid Kent,E14000700,Helen Whately MP,3288
-Feltham and Heston,E14000701,Seema Malhotra MP,3668
-Fermanagh and South Tyrone,N06000007,Tom Elliott MP,1769
-Filton and Bradley Stoke,E14000702,Jack Lopresti MP,4130
-Finchley and Golders Green,E14000703,Mike Freer MP,9219
-Folkestone and Hythe,E14000704,Damian Collins MP,3315
-Forest of Dean,E14000705,Rt Hon Mark Harper MP,2773
-Foyle,N06000008,Mark Durkan MP,3217
-Fylde,E14000706,Mark Menzies MP,2278
-Gainsborough,E14000707,Sir Edward Leigh MP,2197
-Garston and Halewood,E14000708,Maria Eagle MP,3609
-Gateshead,E14000709,Ian Mearns MP,2496
-Gedling,E14000710,Vernon Coaker MP,3286
-Gillingham and Rainham,E14000711,Rehman Chishti MP,2194
-Gloucester,E14000712,Richard Graham MP,3099
-Gosport,E14000713,Caroline Dinenage MP,2400
-Gower,W07000046,Byron Davies MP,2791
-Grantham and Stamford,E14000714,Nick Boles MP,3206
-Gravesham,E14000715,Adam Holloway MP,2366
-Great Grimsby,E14000716,Melanie Onn MP,1124
-Great Yarmouth,E14000717,Brandon Lewis MP,1570
-Greenwich and Woolwich,E14000718,Matthew Pennycook MP,7598
-Guildford,E14000719,Rt Hon Anne Milton MP,6914
-Hackney North and Stoke Newington,E14000720,Ms Diane Abbott MP,12714
-Hackney South and Shoreditch,E14000721,Meg Hillier MP,12003
-Halesowen and Rowley Regis,E14000722,James Morris MP,1642
-Halifax,E14000723,Holly Lynch MP,2160
-Haltemprice and Howden,E14000724,Rt Hon David Davis MP,2602
-Halton,E14000725,Derek Twigg MP,2181
-Hammersmith,E14000726,Andy Slaughter MP,9997
-Hampstead and Kilburn,E14000727,Tulip Siddiq MP,13443
-Harborough,E14000728,Rt Hon Sir Edward Garnier QC MP,3926
-Harlow,E14000729,Rt Hon Robert Halfon MP,1918
-Harrogate and Knaresborough,E14000730,Andrew Jones MP,4813
-Harrow East,E14000731,Bob Blackman MP,3960
-Harrow West,E14000732,Gareth Thomas MP,4815
-Hartlepool,E14000733,Mr Iain Wright MP,1190
-Harwich and North Essex,E14000734,Mr Bernard Jenkin MP,3145
-Hastings and Rye,E14000735,Rt Hon Amber Rudd MP,3808
-Havant,E14000736,Mr Alan Mak MP,2339
-Hayes and Harlington,E14000737,John McDonnell MP,2872
-Hazel Grove,E14000738,William Wragg MP,3027
-Hemel Hempstead,E14000739,Rt Hon Mike Penning MP,3671
-Hemsworth,E14000740,Jon Trickett MP,1531
-Hendon,E14000741,Dr Matthew Offord MP,5601
-Henley,E14000742,John Howell MP,6220
-Hereford and South Herefordshire,E14000743,Jesse Norman MP,2761
-Hertford and Stortford,E14000744,Mr Mark Prisk MP,5268
-Hertsmere,E14000745,Oliver Dowden MP,4525
-Hexham,E14000746,Guy Opperman MP,3281
-Heywood and Middleton,E14000747,Liz McInnes MP,2054
-High Peak,E14000748,Andrew Bingham MP,3858
-Hitchin and Harpenden,E14000749,Rt Hon Peter Lilley MP,6716
-Holborn and St Pancras,E14000750,Keir Starmer MP,12979
-Hornchurch and Upminster,E14000751,Dame Angela Watkinson MP,2334
-Hornsey and Wood Green,E14000752,Catherine West MP,14297
-Horsham,E14000753,Jeremy Quin MP,5024
-Houghton and Sunderland South,E14000754,Bridget Phillipson MP,1374
-Hove,E14000755,Peter Kyle MP,9313
-Huddersfield,E14000756,Mr Barry Sheerman MP,2590
-Huntingdon,E14000757,Mr Jonathan Djanogly MP,4397
-Hyndburn,E14000758,Graham Jones MP,1623
-Ilford North,E14000759,Wes Streeting MP,4479
-Ilford South,E14000760,Mike Gapes MP,4949
-Ipswich,E14000761,Ben Gummer MP,3442
-Isle of Wight,E14000762,Mr Andrew Turner MP,4014
-Islington North,E14000763,Rt Hon Jeremy Corbyn MP,12173
-Islington South and Finsbury,E14000764,Emily Thornberry MP,10850
-Islwyn,W07000077,Chris Evans MP,1452
-Jarrow,E14000765,Mr Stephen Hepburn MP,1798
-Keighley,E14000766,Kris Hopkins MP,3028
-Kenilworth and Southam,E14000767,Rt Hon Jeremy Wright QC MP,4327
-Kensington,E14000768,Victoria Borwick MP,10513
-Kettering,E14000769,Mr Philip Hollobone MP,2448
-Kingston and Surbiton,E14000770,James Berry MP,7780
-Kingston upon Hull East,E14000771,Karl Turner MP,1194
-Kingston upon Hull North,E14000772,Diana Johnson MP,2139
-Kingston upon Hull West and Hessle,E14000773,Rt Hon Alan Johnson MP,1564
-Kingswood,E14000774,Chris Skidmore MP,2802
-Knowsley,E14000775,Rt Hon George Howarth MP,2238
-Lagan Valley,N06000009,Rt Hon Sir Jeffrey M. Donaldson MP,2676
-Lancaster and Fleetwood,E14000776,Cat Smith MP,3322
-Leeds Central,E14000777,Rt Hon Hilary Benn MP,4354
-Leeds East,E14000778,Richard Burgon MP,1940
-Leeds North East,E14000779,Fabian Hamilton MP,5946
-Leeds North West,E14000780,Greg Mulholland MP,4551
-Leeds West,E14000781,Rachel Reeves MP,3175
-Leicester East,E14000782,Rt Hon Keith Vaz MP,3018
-Leicester South,E14000783,Jonathan Ashworth MP,4656
-Leicester West,E14000784,Liz Kendall MP,2546
-Leigh,E14000785,Rt Hon Andy Burnham MP,1954
-Lewes,E14000786,Maria Caulfield MP,5342
-Lewisham East,E14000787,Heidi Alexander MP,5631
-Lewisham West and Penge,E14000788,Jim Dowd MP,8015
-"Lewisham, Deptford",E14000789,Vicky Foxcroft MP,10050
-Leyton and Wanstead,E14000790,John Cryer MP,6616
-Lichfield,E14000791,Michael Fabricant MP,2801
-Lincoln,E14000792,Karl McCartney MP,3277
-"Liverpool, Riverside",E14000793,Mrs Louise Ellman MP,6166
-"Liverpool, Walton",E14000794,Steve Rotheram MP,2234
-"Liverpool, Wavertree",E14000795,Luciana Berger MP,4009
-"Liverpool, West Derby",E14000796,Stephen Twigg MP,2425
-Llanelli,W07000045,Nia Griffith MP,1649
-Loughborough,E14000797,Rt Hon Nicky Morgan MP,3787
-Louth and Horncastle,E14000798,Victoria Atkins MP,1815
-Ludlow,E14000799,Mr Philip Dunne MP,2574
-Luton North,E14000800,Kelvin Hopkins MP,2318
-Luton South,E14000801,Mr Gavin Shuker MP,2683
-Macclesfield,E14000802,David Rutley MP,4428
-Maidenhead,E14000803,Rt Hon Theresa May MP,5892
-Maidstone and The Weald,E14000804,Mrs Helen Grant MP,3641
-Makerfield,E14000805,Yvonne Fovargue MP,1616
-Maldon,E14000806,Rt Hon John Whittingdale MP,2517
-Manchester Central,E14000807,Lucy Powell MP,6712
-"Manchester, Gorton",E14000808,Rt Hon Sir Gerald Kaufman MP,5073
-"Manchester, Withington",E14000809,Jeff Smith MP,8316
-Mansfield,E14000810,Sir Alan Meale MP,1528
-Airdrie and Shotts,S14000003,Neil Gray MP,745
-Meon Valley,E14000811,George Hollingbery MP,3636
-Meriden,E14000812,Rt Hon Caroline Spelman MP,3101
-Merthyr Tydfil and Rhymney,W07000071,Gerald Jones MP,1319
-Mid Bedfordshire,E14000813,Nadine Dorries MP,3948
-Mid Derbyshire,E14000814,Pauline Latham MP,3043
-Mid Dorset and North Poole,E14000815,Michael Tomlinson MP,3044
-Mid Norfolk,E14000816,George Freeman MP,2984
-Mid Sussex,E14000817,Rt Hon Sir Nicholas Soames MP,5755
-Mid Ulster,N06000010,Francie Molloy MP,1570
-Mid Worcestershire,E14000818,Nigel Huddleston MP,2708
-Middlesbrough,E14000819,Andy McDonald MP,1425
-Middlesbrough South and East Cleveland,E14000820,Tom Blenkinsop MP,1565
-Milton Keynes North,E14000821,Mark Lancaster MP,4980
-Milton Keynes South,E14000822,Iain Stewart MP,5055
-Mitcham and Morden,E14000823,Siobhain McDonagh MP,4346
-Mole Valley,E14000824,Sir Paul Beresford MP,5641
-Monmouth,W07000054,David T. C. Davies MP,3374
-Montgomeryshire,W07000063,Glyn Davies MP,1734
-Morecambe and Lunesdale,E14000825,David Morris MP,2300
-Morley and Outwood,E14000826,Andrea Jenkyns MP,2603
-Neath,W07000069,Christina Rees MP,1614
-New Forest East,E14000827,Rt Hon Dr Julian Lewis MP,3005
-New Forest West,E14000828,Rt Hon Sir Desmond Swayne MP,3275
-Newark,E14000829,Robert Jenrick MP,3455
-Newbury,E14000830,Richard Benyon MP,5224
-Newcastle upon Tyne Central,E14000831,Chi Onwurah MP,3304
-Newcastle upon Tyne East,E14000832,Rt Hon Nicholas Brown MP,4462
-Newcastle upon Tyne North,E14000833,Catherine McKinnell MP,3179
-Newcastle-under-Lyme,E14000834,Paul Farrelly MP,2042
-Newport East,W07000055,Jessica Morden MP,1807
-Newport West,W07000056,Paul Flynn MP,2672
-Newry and Armagh,N06000011,Mickey Brady MP,2062
-Newton Abbot,E14000835,Anne Marie Morris MP,2946
-"Normanton, Pontefract and Castleford",E14000836,Rt Hon Yvette Cooper MP,1568
-North Antrim,N06000012,Ian Paisley MP,1355
-North Cornwall,E14000837,Scott Mann MP,2699
-North Devon,E14000838,Peter Heaton-Jones MP,2916
-North Dorset,E14000839,Simon Hoare MP,3470
-North Down,N06000013,Lady Hermon MP,2664
-North Durham,E14000840,Mr Kevan Jones MP,1853
-North East Bedfordshire,E14000841,Rt Hon Alistair Burt MP,4174
-North East Cambridgeshire,E14000842,Stephen Barclay MP,2206
-North East Derbyshire,E14000843,Natascha Engel MP,2217
-North East Hampshire,E14000844,Mr Ranil Jayawardena MP,4982
-North East Hertfordshire,E14000845,Sir Oliver Heald QC MP,4438
-North East Somerset,E14000846,Mr Jacob Rees-Mogg MP,3994
-North Herefordshire,E14000847,Bill Wiggin MP,2785
-North Norfolk,E14000848,Rt Hon Norman Lamb MP,2418
-North Shropshire,E14000849,Rt Hon Owen Paterson MP,2481
-North Somerset,E14000850,Rt Hon Dr Liam Fox MP,5127
-North Swindon,E14000851,Justin Tomlinson MP,2996
-North Thanet,E14000852,Sir Roger Gale MP,2392
-North Tyneside,E14000853,Mary Glindon MP,2542
-North Warwickshire,E14000854,Craig Tracey MP,1567
-North West Cambridgeshire,E14000855,Mr Shailesh Vara MP,3869
-North West Durham,E14000856,Pat Glass MP,2183
-North West Hampshire,E14000857,Kit Malthouse MP,3975
-North West Leicestershire,E14000858,Andrew Bridgen MP,2614
-North West Norfolk,E14000859,Sir Henry Bellingham MP,1987
-North Wiltshire,E14000860,James Gray MP,3874
-Northampton North,E14000861,Michael Ellis MP,2210
-Northampton South,E14000862,David Mackintosh MP,2511
-Norwich North,E14000863,Chloe Smith MP,3273
-Norwich South,E14000864,Clive Lewis MP,6214
-Nottingham East,E14000865,Chris Leslie MP,4016
-Nottingham North,E14000866,Mr Graham Allen MP,1588
-Nottingham South,E14000867,Lilian Greenwood MP,4049
-Nuneaton,E14000868,Mr Marcus Jones MP,1740
-Ogmore,W07000074,Chris Elmore MP,1553
-Old Bexley and Sidcup,E14000869,Rt Hon James Brokenshire MP,2487
-Oldham East and Saddleworth,E14000870,Debbie Abrahams MP,2284
-Oldham West and Royton,E14000871,Jim McMahon MP,2313
-Orpington,E14000872,Joseph Johnson MP,3436
-Oxford East,E14000873,Rt Hon Andrew Smith MP,9240
-Oxford West and Abingdon,E14000874,Nicola Blackwood MP,9048
-Pendle,E14000875,Andrew Stephenson MP,1594
-Penistone and Stocksbridge,E14000876,Angela Smith MP,2291
-Penrith and The Border,E14000877,Rory Stewart MP,2432
-Peterborough,E14000878,Mr Stewart Jackson MP,2681
-"Plymouth, Moor View",E14000879,Johnny Mercer MP,1579
-"Plymouth, Sutton and Devonport",E14000880,Oliver Colvile MP,4062
-Pontypridd,W07000075,Owen Smith MP,2432
-Poole,E14000881,Mr Robert Syms MP,3350
-Poplar and Limehouse,E14000882,Jim Fitzpatrick MP,10653
-Portsmouth North,E14000883,Penny Mordaunt MP,2429
-Portsmouth South,E14000884,Mrs Flick Drummond MP,4123
-Preseli Pembrokeshire,W07000065,Rt Hon Stephen Crabb MP,1953
-Preston,E14000885,Mr Mark Hendrick MP,2424
-Pudsey,E14000886,Stuart Andrew MP,4161
-Putney,E14000887,Rt Hon Justine Greening MP,8982
-Rayleigh and Wickford,E14000888,Rt Hon Mark Francois MP,2072
-Reading East,E14000889,Mr Rob Wilson MP,6610
-Reading West,E14000890,Alok Sharma MP,4340
-Redcar,E14000891,Anna Turley MP,1121
-Redditch,E14000892,Karen Lumley MP,2004
-Reigate,E14000893,Crispin Blunt MP,5314
-Rhondda,W07000052,Chris Bryant MP,1128
-Ribble Valley,E14000894,Mr Nigel Evans MP,2653
-Richmond (Yorks),E14000895,Rishi Sunak MP,2861
-Richmond Park,E14000896,Zac Goldsmith MP,11686
-Rochdale,E14000897,Simon Danczuk MP,2344
-Rochester and Strood,E14000898,Kelly Tolhurst MP,2670
-Rochford and Southend East,E14000899,James Duddridge MP,2503
-Romford,E14000900,Andrew Rosindell MP,2374
-Romsey and Southampton North,E14000901,Caroline Nokes MP,4291
-Rossendale and Darwen,E14000902,Jake Berry MP,2269
-Rother Valley,E14000903,Rt Hon Kevin Barron MP,1690
-Rotherham,E14000904,Sarah Champion MP,1299
-Rugby,E14000905,Mark Pawsey MP,2948
-"Ruislip, Northwood and Pinner",E14000906,Mr Nick Hurd MP,5034
-Runnymede and Weybridge,E14000907,Rt Hon Philip Hammond MP,5006
-Rushcliffe,E14000908,Rt Hon Kenneth Clarke QC MP,5631
-Rutland and Melton,E14000909,Rt Hon Sir Alan Duncan MP,3722
-Saffron Walden,E14000910,Rt Hon Sir Alan Haselhurst MP,4696
-Salford and Eccles,E14000911,Rebecca Long Bailey MP,4266
-Salisbury,E14000912,John Glen MP,4193
-Scarborough and Whitby,E14000913,Mr Robert Goodwill MP,2121
-Scunthorpe,E14000914,Nic Dakin MP,1231
-Sedgefield,E14000915,Phil Wilson MP,1526
-Sefton Central,E14000916,Bill Esterson MP,3369
-Selby and Ainsty,E14000917,Nigel Adams MP,3030
-Sevenoaks,E14000918,Rt Hon Michael Fallon MP,4236
-Sheffield Central,E14000919,Paul Blomfield MP,6410
-Sheffield South East,E14000920,Mr Clive Betts MP,1777
-"Sheffield, Brightside and Hillsborough",E14000921,Gill Furniss MP,2138
-"Sheffield, Hallam",E14000922,Rt Hon Nick Clegg MP,6376
-"Sheffield, Heeley",E14000923,Louise Haigh MP,3001
-Sherwood,E14000924,Mark Spencer MP,2096
-Shipley,E14000925,Philip Davies MP,3527
-Shrewsbury and Atcham,E14000926,Daniel Kawczynski MP,3683
-Sittingbourne and Sheppey,E14000927,Gordon Henderson MP,2053
-Skipton and Ripon,E14000928,Julian Smith MP,3650
-Sleaford and North Hykeham,E14000929,Stephen Phillips QC MP,2978
-Slough,E14000930,Rt Hon Fiona Mactaggart MP,3888
-Solihull,E14000931,Julian Knight MP,3580
-Somerton and Frome,E14000932,David Warburton MP,4486
-South Antrim,N06000014,Danny Kinahan MP,2074
-South Basildon and East Thurrock,E14000933,Stephen Metcalfe MP,1569
-South Cambridgeshire,E14000934,Heidi Allen MP,7988
-South Derbyshire,E14000935,Heather Wheeler MP,2519
-South Dorset,E14000936,Richard Drax MP,2664
-South Down,N06000015,Ms Margaret Ritchie MP,2737
-South East Cambridgeshire,E14000937,Lucy Frazer MP,6568
-South East Cornwall,E14000938,Mrs Sheryll Murray MP,2804
-South Holland and The Deepings,E14000939,Rt Hon John Hayes MP,1777
-South Leicestershire,E14000940,Alberto Costa MP,2930
-South Norfolk,E14000941,Mr Richard Bacon MP,4354
-South Northamptonshire,E14000942,Andrea Leadsom MP,4226
-South Ribble,E14000943,Seema Kennedy MP,2603
-South Shields,E14000944,Mrs Emma Lewell-Buck MP,1385
-South Staffordshire,E14000945,Rt Hon Gavin Williamson MP,1772
-South Suffolk,E14000946,James Cartlidge MP,3501
-South Swindon,E14000947,Robert Buckland MP,3593
-South Thanet,E14000948,Craig Mackinlay MP,2956
-South West Bedfordshire,E14000949,Andrew Selous MP,3178
-South West Devon,E14000950,Mr Gary Streeter MP,3094
-South West Hertfordshire,E14000951,Mr David Gauke MP,6097
-South West Norfolk,E14000952,Rt Hon Elizabeth Truss MP,2101
-South West Surrey,E14000953,Rt Hon Jeremy Hunt MP,6884
-South West Wiltshire,E14000954,Dr Andrew Murrison MP,3253
-"Southampton, Itchen",E14000955,Royston Smith MP,3259
-"Southampton, Test",E14000956,Dr Alan Whitehead MP,4298
-Southend West,E14000957,Sir David Amess MP,2988
-Southport,E14000958,John Pugh MP,2973
-Spelthorne,E14000959,Kwasi Kwarteng MP,3295
-St Albans,E14000960,Mrs Anne Main MP,7389
-St Austell and Newquay,E14000961,Steve Double MP,2696
-St Helens North,E14000962,Conor McGinn MP,2044
-St Helens South and Whiston,E14000963,Marie Rimmer MP,2345
-St Ives,E14000964,Derek Thomas MP,3024
-Stafford,E14000965,Jeremy Lefroy MP,2549
-Staffordshire Moorlands,E14000966,Karen Bradley MP,1728
-Stalybridge and Hyde,E14000967,Jonathan Reynolds MP,2401
-Stevenage,E14000968,Stephen McPartland MP,2850
-Stockport,E14000969,Ann Coffey MP,3795
-Stockton North,E14000970,Alex Cunningham MP,1324
-Stockton South,E14000971,James Wharton MP,2230
-Stoke-on-Trent Central,E14000972,Tristram Hunt MP,1451
-Stoke-on-Trent North,E14000973,Ruth Smeeth MP,1280
-Stoke-on-Trent South,E14000974,Robert Flello MP,1264
-Stone,E14000975,Sir William Cash MP,2311
-Stourbridge,E14000976,Margot James MP,2093
-Strangford,N06000016,Jim Shannon MP,1695
-Stratford-on-Avon,E14000977,Nadhim Zahawi MP,4043
-Streatham,E14000978,Mr Chuka Umunna MP,10501
-Stretford and Urmston,E14000979,Kate Green MP,4245
-Stroud,E14000980,Neil Carmichael MP,5297
-Suffolk Coastal,E14000981,Dr Thérèse Coffey MP,3914
-Sunderland Central,E14000982,Julie Elliott MP,2001
-Surrey Heath,E14000983,Rt Hon Michael Gove MP,4689
-Sutton and Cheam,E14000984,Paul Scully MP,4484
-Sutton Coldfield,E14000985,Rt Hon Andrew Mitchell MP,3588
-Swansea East,W07000048,Carolyn Harris MP,1615
-Swansea West,W07000047,Geraint Davies MP,3084
-Tamworth,E14000986,Christopher Pincher MP,1920
-Tatton,E14000987,Rt Hon George Osborne MP,4308
-Taunton Deane,E14000988,Rebecca Pow MP,3918
-Telford,E14000989,Lucy Allan MP,1685
-Tewkesbury,E14000990,Mr Laurence Robertson MP,3700
-The Cotswolds,E14000991,Geoffrey Clifton-Brown MP,4945
-The Wrekin,E14000992,Mark Pritchard MP,2146
-Thirsk and Malton,E14000993,Kevin Hollinrake MP,2986
-Thornbury and Yate,E14000994,Luke Hall MP,3069
-Thurrock,E14000995,Jackie Doyle-Price MP,2137
-Tiverton and Honiton,E14000996,Neil Parish MP,3240
-Tonbridge and Malling,E14000997,Tom Tugendhat MP,4394
-Tooting,E14000998,Dr Rosena Allin-Khan MP,10293
-Torbay,E14000999,Kevin Foster MP,2469
-Torfaen,W07000053,Nick Thomas-Symonds MP,1554
-Torridge and West Devon,E14001000,Mr Geoffrey Cox QC MP,3274
-Totnes,E14001001,Dr Sarah Wollaston MP,3861
-Tottenham,E14001002,Rt Hon David Lammy MP,7198
-Truro and Falmouth,E14001003,Sarah Newton MP,4831
-Tunbridge Wells,E14001004,Rt Hon Greg Clark MP,6001
-Twickenham,E14001005,Dr Tania Mathias MP,10116
-Tynemouth,E14001006,Rt Hon Alan Campbell MP,3909
-Upper Bann,N06000017,David Simpson MP,2053
-Uxbridge and South Ruislip,E14001007,Boris Johnson MP,3689
-Vale of Clwyd,W07000060,Dr James Davies MP,1720
-Vale of Glamorgan,W07000078,Rt Hon Alun Cairns MP,3278
-Vauxhall,E14001008,Kate Hoey MP,10816
-Wakefield,E14001009,Mary Creagh MP,1964
-Wallasey,E14001010,Ms Angela Eagle MP,2888
-Walsall North,E14001011,Mr David Winnick MP,944
-Walsall South,E14001012,Valerie Vaz MP,2086
-Walthamstow,E14001013,Stella Creasy MP,7038
-Wansbeck,E14001014,Ian Lavery MP,1839
-Wantage,E14001015,Mr Edward Vaizey MP,6126
-Warley,E14001016,Rt Hon John Spellar MP,1995
-Warrington North,E14001017,Helen Jones MP,2466
-Warrington South,E14001018,David Mowat MP,4193
-Warwick and Leamington,E14001019,Chris White MP,5870
-Washington and Sunderland West,E14001020,Mrs Sharon Hodgson MP,1507
-Watford,E14001021,Richard Harrington MP,4795
-Waveney,E14001022,Peter Aldous MP,2270
-Wealden,E14001023,Nusrat Ghani MP,5033
-Weaver Vale,E14001024,Graham Evans MP,3182
-Wellingborough,E14001025,Mr Peter Bone MP,2520
-Wells,E14001026,James Heappey MP,3773
-Welwyn Hatfield,E14001027,Rt Hon Grant Shapps MP,4120
-Wentworth and Dearne,E14001028,Rt Hon John Healey MP,1312
-West Bromwich East,E14001029,Tom Watson MP,1427
-West Bromwich West,E14001030,Mr Adrian Bailey MP,1190
-West Dorset,E14001031,Rt Hon Oliver Letwin MP,4311
-West Ham,E14001032,Lyn Brown MP,7478
-West Lancashire,E14001033,Rosie Cooper MP,2928
-West Suffolk,E14001034,Rt Hon Matthew Hancock MP,2864
-West Tyrone,N06000018,Mr Pat Doherty MP,1635
-West Worcestershire,E14001035,Harriett Baldwin MP,3749
-Westminster North,E14001036,Ms Karen Buck MP,9417
-Westmorland and Lonsdale,E14001037,Tim Farron MP,3770
-Weston-super-Mare,E14001038,John Penrose MP,3130
-Wigan,E14001039,Lisa Nandy MP,1842
-Wimbledon,E14001040,Stephen Hammond MP,8962
-Winchester,E14001041,Steve Brine MP,6664
-Windsor,E14001042,Adam Afriyie MP,5229
-Wirral South,E14001043,Alison McGovern MP,2950
-Wirral West,E14001044,Margaret Greenwood MP,3154
-Witham,E14001045,Rt Hon Priti Patel MP,2670
-Witney,E14001046,Rt Hon David Cameron MP,6024
-Woking,E14001047,Mr Jonathan Lord MP,5678
-Wokingham,E14001048,Rt Hon John Redwood MP,5970
-Wolverhampton North East,E14001049,Emma Reynolds MP,1216
-Wolverhampton South East,E14001050,Rt Hon Pat McFadden MP,1117
-Wolverhampton South West,E14001051,Rob Marris MP,2259
-Worcester,E14001052,Mr Robin Walker MP,3535
-Workington,E14001053,Sue Hayman MP,1626
-Worsley and Eccles South,E14001054,Barbara Keeley MP,2380
-Worthing West,E14001055,Sir Peter Bottomley MP,3709
-Wrexham,W07000044,Ian C. Lucas MP,1758
-Wycombe,E14001056,Mr Steve Baker MP,4713
-Wyre and Preston North,E14001057,Mr Ben Wallace MP,2700
-Wyre Forest,E14001058,Mark Garnier MP,2178
-Wythenshawe and Sale East,E14001059,Mike Kane MP,3771
-Yeovil,E14001060,Marcus Fysh MP,2725
-Ynys Môn,W07000041,Albert Owen MP,2012
-York Central,E14001061,Rachael Maskell MP,5933
-York Outer,E14001062,Julian Sturdy MP,4292
-"Caithness, Sutherland and Easter Ross",S14000009,Dr Paul Monaghan MP,744
-Angus,S14000004,Mike Weir MP,1019
-Central Ayrshire,S14000010,Dr Philippa Whitford MP,1041
-Argyll and Bute,S14000005,Brendan O'Hara MP,1723
-"Coatbridge, Chryston and Bellshill",S14000011,Philip Boswell MP,979
-"Cumbernauld, Kilsyth and Kirkintilloch East",S14000012,Stuart C. McDonald MP,1144
-Dumfries and Galloway,S14000013,Richard Arkless MP,1286
-"Dumfriesshire, Clydesdale and Tweeddale",S14000014,Rt Hon David Mundell MP,1580
-Dundee East,S14000015,Stewart Hosie MP,1455
-Dundee West,S14000016,Chris Law MP,1645
-Dunfermline and West Fife,S14000017,Douglas Chapman MP,1844
-East Dunbartonshire,S14000018,John Nicolson MP,2445
-"East Kilbride, Strathaven and Lesmahagow",S14000019,Dr Lisa Cameron MP,1506
-"Ayr, Carrick and Cumnock",S14000006,Corri Wilson MP,1114
-East Lothian,S14000020,George Kerevan MP,2499
-East Renfrewshire,S14000021,Kirsten Oswald MP,2354
+name,ons_code,mp,signature_countAberavon,W07000049,Stephen Kinnock MP,1343Aberconwy,W07000058,Guto Bebb MP,2067Aberdeen North,S14000001,Kirsty Blackman MP,2583Aberdeen South,S14000002,Callum McCaig MP,3192Airdrie and Shotts,S14000003,Neil Gray MP,907Aldershot,E14000530,Sir Gerald Howarth MP,3617Aldridge-Brownhills,E14000531,Wendy Morton MP,1552Altrincham and Sale West,E14000532,Mr Graham Brady MP,6784Alyn and Deeside,W07000043,Mark Tami MP,2522Amber Valley,E14000533,Nigel Mills MP,1911Angus,S14000004,Mike Weir MP,1199Arfon,W07000057,Hywel Williams MP,3043Argyll and Bute,S14000005,Brendan O'Hara MP,2058Arundel and South Downs,E14000534,Rt Hon Nick Herbert MP,5725Ashfield,E14000535,Gloria De Piero MP,1731Ashford,E14000536,Rt Hon Damian Green MP,4182Ashton-under-Lyne,E14000537,Angela Rayner MP,2182Aylesbury,E14000538,Rt Hon David Lidington MP,4882"Ayr, Carrick and Cumnock",S14000006,Corri Wilson MP,1322Banbury,E14000539,Victoria Prentis MP,5557Banff and Buchan,S14000007,Dr Eilidh Whiteford MP,945Barking,E14000540,Rt Hon Dame  Margaret Hodge MP,3692Barnsley Central,E14000541,Dan Jarvis MP,1458Barnsley East,E14000542,Michael Dugher MP,1192Barrow and Furness,E14000543,John Woodcock MP,2168Basildon and Billericay,E14000544,Mr John Baron MP,2420Basingstoke,E14000545,Rt Hon Maria Miller MP,4797Bassetlaw,E14000546,John Mann MP,2002Bath,E14000547,Ben Howlett MP,8393Batley and Spen,E14000548,,3107Battersea,E14000549,Jane Ellison MP,12677Beaconsfield,E14000550,Rt Hon Dominic Grieve QC MP,5925Beckenham,E14000551,Bob Stewart MP,5516Bedford,E14000552,Richard Fuller MP,4087Belfast East,N06000001,Gavin Robinson MP,3018Belfast North,N06000002,Rt Hon Nigel Dodds MP,2714Belfast South,N06000003,Dr Alasdair McDonnell MP,5928Belfast West,N06000004,Paul Maskey MP,2181Bermondsey and Old Southwark,E14000553,Neil Coyle MP,12338Berwick-upon-Tweed,E14000554,Mrs Anne-Marie Trevelyan MP,2292"Berwickshire, Roxburgh and Selkirk",S14000008,Calum Kerr MP,2001Bethnal Green and Bow,E14000555,Rushanara Ali MP,13143Beverley and Holderness,E14000556,Graham Stuart MP,3057Bexhill and Battle,E14000557,Huw Merriman MP,4147Bexleyheath and Crayford,E14000558,Rt Hon David Evennett MP,2498Birkenhead,E14000559,Rt Hon Frank Field MP,2798"Birmingham, Edgbaston",E14000560,Rt Hon Gisela Stuart MP,4443"Birmingham, Erdington",E14000561,Jack Dromey MP,2090"Birmingham, Hall Green",E14000562,Mr Roger Godsiff MP,6325"Birmingham, Hodge Hill",E14000563,Rt Hon Liam Byrne MP,3040"Birmingham, Ladywood",E14000564,Shabana Mahmood MP,4923"Birmingham, Northfield",E14000565,Richard Burden MP,2550"Birmingham, Perry Barr",E14000566,Mr Khalid Mahmood MP,2996"Birmingham, Selly Oak",E14000567,Steve McCabe MP,4687"Birmingham, Yardley",E14000568,Jess Phillips MP,2709Bishop Auckland,E14000569,Helen Goodman MP,1805Blackburn,E14000570,Kate Hollern MP,3619Blackley and Broughton,E14000571,Graham Stringer MP,3421Blackpool North and Cleveleys,E14000572,Paul Maynard MP,1624Blackpool South,E14000573,Gordon Marsden MP,1272Blaenau Gwent,W07000072,Nick Smith MP,1193Blaydon,E14000574,Mr David Anderson MP,2791Blyth Valley,E14000575,Mr Ronnie Campbell MP,1859Bognor Regis and Littlehampton,E14000576,Nick Gibb MP,2732Bolsover,E14000577,Mr Dennis Skinner MP,1658Bolton North East,E14000578,Mr David Crausby MP,2675Bolton South East,E14000579,Yasmin Qureshi MP,2340Bolton West,E14000580,Chris Green MP,2826Bootle,E14000581,Peter Dowd MP,3330Boston and Skegness,E14000582,Matt Warman MP,1377Bosworth,E14000583,David Tredinnick MP,2971Bournemouth East,E14000584,Mr Tobias Ellwood MP,4777Bournemouth West,E14000585,Conor Burns MP,4183Bracknell,E14000586,Dr Phillip Lee MP,4838Bradford East,E14000587,Imran Hussain MP,2926Bradford South,E14000588,Judith Cummins MP,1847Bradford West,E14000589,Naz Shah MP,3627Braintree,E14000590,James Cleverly MP,3066Brecon and Radnorshire,W07000068,Chris Davies MP,2581Brent Central,E14000591,Dawn Butler MP,7266Brent North,E14000592,Barry Gardiner MP,5533Brentford and Isleworth,E14000593,Ruth Cadbury MP,9990Brentwood and Ongar,E14000594,Rt Hon Sir Eric Pickles MP,3710Bridgend,W07000073,Mrs Madeleine Moon MP,2546Bridgwater and West Somerset,E14000595,Mr Ian Liddell-Grainger MP,2972Brigg and Goole,E14000596,Andrew Percy MP,1732"Brighton, Kemptown",E14000597,Simon Kirby MP,6830"Brighton, Pavilion",E14000598,Caroline Lucas MP,13402Bristol East,E14000599,Kerry McCarthy MP,5003Bristol North West,E14000600,Charlotte Leslie MP,6675Bristol South,E14000601,Karin Smyth MP,6537Bristol West,E14000602,Thangam Debbonaire MP,15388Broadland,E14000603,Rt Hon Keith Simpson MP,3742Bromley and Chislehurst,E14000604,Robert Neill MP,5198Bromsgrove,E14000605,Rt Hon Sajid Javid MP,3478Broxbourne,E14000606,Mr Charles Walker MP,2864Broxtowe,E14000607,Rt Hon Anna Soubry MP,4501Buckingham,E14000608,Rt Hon John Bercow MP,6151Burnley,E14000609,Julie Cooper MP,1522Burton,E14000610,Andrew Griffiths MP,2492Bury North,E14000611,Mr David Nuttall MP,2886Bury South,E14000612,Mr Ivan Lewis MP,3584Bury St Edmunds,E14000613,Jo Churchill MP,4479Caerphilly,W07000076,Wayne David MP,2439"Caithness, Sutherland and Easter Ross",S14000009,Dr Paul Monaghan MP,891Calder Valley,E14000614,Craig Whittaker MP,4243Camberwell and Peckham,E14000615,Rt Hon Harriet Harman QC MP,10288Camborne and Redruth,E14000616,George Eustice MP,2956Cambridge,E14000617,Daniel Zeichner MP,11976Cannock Chase,E14000618,Amanda Milling MP,1640Canterbury,E14000619,Mr Julian Brazier MP,6875Cardiff Central,W07000050,Jo Stevens MP,5845Cardiff North,W07000051,Craig Williams MP,5370Cardiff South and Penarth,W07000080,Stephen Doughty MP,5524Cardiff West,W07000079,Kevin Brennan MP,5221Carlisle,E14000620,John Stevenson MP,2016Carmarthen East and Dinefwr,W07000067,Jonathan Edwards MP,2189Carmarthen West and South Pembrokeshire,W07000066,Simon Hart MP,2132Carshalton and Wallington,E14000621,Rt Hon Tom Brake MP,4270Castle Point,E14000622,Rebecca Harris MP,1554Central Ayrshire,S14000010,Dr Philippa Whitford MP,1240Central Devon,E14000623,Mel Stride MP,4846Central Suffolk and North Ipswich,E14000624,Dr Poulter MP,4127Ceredigion,W07000064,Mr Mark Williams MP,3454Charnwood,E14000625,Edward Argar MP,3368Chatham and Aylesford,E14000626,Tracey Crouch MP,2296Cheadle,E14000627,Mary Robinson MP,5616Chelmsford,E14000628,Rt Hon Sir Simon Burns MP,4704Chelsea and Fulham,E14000629,Rt Hon Greg Hands MP,10888Cheltenham,E14000630,Alex Chalk MP,6582Chesham and Amersham,E14000631,Rt Hon Cheryl Gillan MP,6568Chesterfield,E14000632,Toby Perkins MP,2602Chichester,E14000633,Rt Hon Andrew Tyrie MP,5655Chingford and Woodford Green,E14000634,Rt Hon Iain Duncan Smith MP,4795Chippenham,E14000635,Michelle Donelan MP,5095Chipping Barnet,E14000636,Rt Hon Theresa Villiers MP,8514Chorley,E14000637,Rt Hon Lindsay Hoyle MP,2992Christchurch,E14000638,Mr Christopher Chope MP,3126Cities of London and Westminster,E14000639,Rt Hon Mark Field MP,35744City of Chester,E14000640,Christian Matheson MP,5495City of Durham,E14000641,Dr Roberta Blackman-Woods MP,4259Clacton,E14000642,Mr Douglas Carswell MP,1402Cleethorpes,E14000643,Martin Vickers MP,1605Clwyd South,W07000062,Susan Elan Jones MP,1842Clwyd West,W07000059,Rt Hon David Jones MP,2521"Coatbridge, Chryston and Bellshill",S14000011,Philip Boswell MP,1181Colchester,E14000644,Will Quince MP,4843Colne Valley,E14000645,Jason McCartney MP,4328Congleton,E14000646,Fiona Bruce MP,3815Copeland,E14000647,Mr Jamie Reed MP,1884Corby,E14000648,Tom Pursglove MP,3370Coventry North East,E14000649,Colleen Fletcher MP,2891Coventry North West,E14000650,Mr Geoffrey Robinson MP,3152Coventry South,E14000651,Mr Jim Cunningham MP,4179Crawley,E14000652,Henry Smith MP,3681Crewe and Nantwich,E14000653,Edward Timpson MP,3290Croydon Central,E14000654,Gavin Barwell MP,5065Croydon North,E14000655,Mr Steve Reed MP,6321Croydon South,E14000656,Chris Philp MP,6062"Cumbernauld, Kilsyth and Kirkintilloch East",S14000012,Stuart C. McDonald MP,1363Cynon Valley,W07000070,Rt Hon Ann Clwyd MP,1524Dagenham and Rainham,E14000657,Jon Cruddas MP,2328Darlington,E14000658,Jenny Chapman MP,2429Dartford,E14000659,Gareth Johnson MP,2928Daventry,E14000660,Chris Heaton-Harris MP,3604Delyn,W07000042,Rt Hon David Hanson MP,2205Denton and Reddish,E14000661,Andrew Gwynne MP,2374Derby North,E14000662,Amanda Solloway MP,3635Derby South,E14000663,Rt Hon Margaret Beckett MP,2726Derbyshire Dales,E14000664,Rt Hon Patrick McLoughlin MP,3851Devizes,E14000665,Claire Perry MP,3993Dewsbury,E14000666,Paula Sherriff MP,3518Don Valley,E14000667,Rt Hon Caroline Flint MP,1628Doncaster Central,E14000668,Rt Hon Dame  Rosie Winterton MP,1967Doncaster North,E14000669,Rt Hon Edward Miliband MP,1297Dover,E14000670,Charlie Elphicke MP,2710Dudley North,E14000671,Ian Austin MP,1350Dudley South,E14000672,Mike Wood MP,1393Dulwich and West Norwood,E14000673,Helen Hayes MP,12317Dumfries and Galloway,S14000013,Richard Arkless MP,1519"Dumfriesshire, Clydesdale and Tweeddale",S14000014,Rt Hon David Mundell MP,1882Dundee East,S14000015,Stewart Hosie MP,1699Dundee West,S14000016,Chris Law MP,1911Dunfermline and West Fife,S14000017,Douglas Chapman MP,2153Dwyfor Meirionnydd,W07000061,Liz Saville Roberts MP,2055Ealing Central and Acton,E14000674,Dr Rupa Huq MP,11805Ealing North,E14000675,Stephen Pound MP,5627"Ealing, Southall",E14000676,Mr Virendra Sharma MP,4867Easington,E14000677,Grahame Morris MP,1098East Antrim,N06000005,Sammy Wilson MP,2039East Devon,E14000678,Rt Hon Hugo Swire MP,4522East Dunbartonshire,S14000018,John Nicolson MP,2944East Ham,E14000679,Rt Hon Stephen Timms MP,5992East Hampshire,E14000680,Damian Hinds MP,5461"East Kilbride, Strathaven and Lesmahagow",S14000019,Dr Lisa Cameron MP,1823East Londonderry,N06000006,Mr Gregory Campbell MP,2114East Lothian,S14000020,George Kerevan MP,2978East Renfrewshire,S14000021,Kirsten Oswald MP,2887East Surrey,E14000681,Mr Sam Gyimah MP,5363East Worthing and Shoreham,E14000682,Tim Loughton MP,4979East Yorkshire,E14000683,Rt Hon Sir Greg Knight MP,2486Eastbourne,E14000684,Caroline Ansell MP,3949Eastleigh,E14000685,Mims Davies MP,4278Eddisbury,E14000686,Antoinette Sandbach MP,3432Edinburgh East,S14000022,Tommy Sheppard MP,4729Edinburgh North and Leith,S14000023,Deidre Brock MP,7599Edinburgh South,S14000024,Ian Murray MP,5762Edinburgh South West,S14000025,Joanna Cherry QC MP,4723Edinburgh West,S14000026,Michelle Thomson MP,3971Edmonton,E14000687,Kate Osamor MP,3355Ellesmere Port and Neston,E14000688,Justin Madders MP,2834Elmet and Rothwell,E14000689,Alec Shelbrooke MP,3725Eltham,E14000690,Clive Efford MP,4640Enfield North,E14000691,Rt Hon Joan Ryan MP,3993"Enfield, Southgate",E14000692,Mr David Burrowes MP,6947Epping Forest,E14000693,Mrs Eleanor Laing MP,4031Epsom and Ewell,E14000694,Rt Hon Chris Grayling MP,6308Erewash,E14000695,Maggie Throup MP,2531Erith and Thamesmead,E14000696,Teresa Pearce MP,3058Esher and Walton,E14000697,Dominic Raab MP,8392Exeter,E14000698,Rt Hon Ben Bradshaw MP,6282Falkirk,S14000028,John Mc Nally MP,1784Fareham,E14000699,Suella Fernandes MP,3985Faversham and Mid Kent,E14000700,Helen Whately MP,3758Feltham and Heston,E14000701,Seema Malhotra MP,4338Fermanagh and South Tyrone,N06000007,Tom Elliott MP,2102Filton and Bradley Stoke,E14000702,Jack Lopresti MP,4688Finchley and Golders Green,E14000703,Mike Freer MP,10846Folkestone and Hythe,E14000704,Damian Collins MP,3717Forest of Dean,E14000705,Rt Hon Mark Harper MP,3163Foyle,N06000008,Mark Durkan MP,3785Fylde,E14000706,Mark Menzies MP,2603Gainsborough,E14000707,Sir Edward Leigh MP,2492Garston and Halewood,E14000708,Maria Eagle MP,4097Gateshead,E14000709,Ian Mearns MP,2819Gedling,E14000710,Vernon Coaker MP,3733Gillingham and Rainham,E14000711,Rehman Chishti MP,2490Glasgow Central,S14000029,Alison Thewliss MP,3675Glasgow East,S14000030,Natalie McGarry MP,835Glasgow North,S14000031,Patrick Grady MP,3776Glasgow North East,S14000032,Anne McLaughlin MP,1227Glasgow North West,S14000033,Carol Monaghan MP,2566Glasgow South,S14000034,Stewart Malcolm McDonald MP,2819Glasgow South West,S14000035,Chris Stephens MP,1175Glenrothes,S14000036,Peter Grant MP,932Gloucester,E14000712,Richard Graham MP,3556Gordon,S14000037,Rt Hon Alex Salmond MP,2361Gosport,E14000713,Caroline Dinenage MP,2703Gower,W07000046,Byron Davies MP,3187Grantham and Stamford,E14000714,Nick Boles MP,3594Gravesham,E14000715,Adam Holloway MP,2709Great Grimsby,E14000716,Melanie Onn MP,1295Great Yarmouth,E14000717,Brandon Lewis MP,1781Greenwich and Woolwich,E14000718,Matthew Pennycook MP,8628Guildford,E14000719,Rt Hon Anne Milton MP,7876Hackney North and Stoke Newington,E14000720,Ms Diane Abbott MP,14267Hackney South and Shoreditch,E14000721,Meg Hillier MP,13386Halesowen and Rowley Regis,E14000722,James Morris MP,1887Halifax,E14000723,Holly Lynch MP,2488Haltemprice and Howden,E14000724,Rt Hon David Davis MP,2966Halton,E14000725,Derek Twigg MP,2450Hammersmith,E14000726,Andy Slaughter MP,11465Hampstead and Kilburn,E14000727,Tulip Siddiq MP,15445Harborough,E14000728,Rt Hon Sir Edward Garnier QC MP,4483Harlow,E14000729,Rt Hon Robert Halfon MP,2208Harrogate and Knaresborough,E14000730,Andrew Jones MP,5417Harrow East,E14000731,Bob Blackman MP,4696Harrow West,E14000732,Gareth Thomas MP,5646Hartlepool,E14000733,Mr Iain Wright MP,1355Harwich and North Essex,E14000734,Mr Bernard Jenkin MP,3573Hastings and Rye,E14000735,Rt Hon Amber Rudd MP,4338Havant,E14000736,Mr Alan Mak MP,2662Hayes and Harlington,E14000737,John McDonnell MP,3419Hazel Grove,E14000738,William Wragg MP,3407Hemel Hempstead,E14000739,Rt Hon Mike Penning MP,4171Hemsworth,E14000740,Jon Trickett MP,1739Hendon,E14000741,Dr Matthew Offord MP,6832Henley,E14000742,John Howell MP,7102Hereford and South Herefordshire,E14000743,Jesse Norman MP,3150Hertford and Stortford,E14000744,Mr Mark Prisk MP,6041Hertsmere,E14000745,Oliver Dowden MP,5255Hexham,E14000746,Guy Opperman MP,3801Heywood and Middleton,E14000747,Liz McInnes MP,2338High Peak,E14000748,Andrew Bingham MP,4354Hitchin and Harpenden,E14000749,Rt Hon Peter Lilley MP,7636Holborn and St Pancras,E14000750,Keir Starmer MP,14839Hornchurch and Upminster,E14000751,Dame Angela Watkinson MP,2688Hornsey and Wood Green,E14000752,Catherine West MP,16365Horsham,E14000753,Jeremy Quin MP,5723Houghton and Sunderland South,E14000754,Bridget Phillipson MP,1555Hove,E14000755,Peter Kyle MP,10483Huddersfield,E14000756,Mr Barry Sheerman MP,2998Huntingdon,E14000757,Mr Jonathan Djanogly MP,5000Hyndburn,E14000758,Graham Jones MP,1824Ilford North,E14000759,Wes Streeting MP,5208Ilford South,E14000760,Mike Gapes MP,5961Inverclyde,S14000038,Ronnie Cowan MP,1104"Inverness, Nairn, Badenoch and Strathspey",S14000039,Drew Hendry MP,2205Ipswich,E14000761,Ben Gummer MP,3926Isle of Wight,E14000762,Mr Andrew Turner MP,4564Islington North,E14000763,Rt Hon Jeremy Corbyn MP,13718Islington South and Finsbury,E14000764,Emily Thornberry MP,12354Islwyn,W07000077,Chris Evans MP,1642Jarrow,E14000765,Mr Stephen Hepburn MP,2034Keighley,E14000766,Kris Hopkins MP,3513Kenilworth and Southam,E14000767,Rt Hon Jeremy Wright QC MP,4895Kensington,E14000768,Victoria Borwick MP,12127Kettering,E14000769,Mr Philip Hollobone MP,2766Kilmarnock and Loudoun,S14000040,Alan Brown MP,1293Kingston and Surbiton,E14000770,James Berry MP,9048Kingston upon Hull East,E14000771,Karl Turner MP,1312Kingston upon Hull North,E14000772,Diana Johnson MP,2421Kingston upon Hull West and Hessle,E14000773,Rt Hon Alan Johnson MP,1804Kingswood,E14000774,Chris Skidmore MP,3118Kirkcaldy and Cowdenbeath,S14000041,Roger Mullin MP,1623Knowsley,E14000775,Rt Hon George Howarth MP,2565Lagan Valley,N06000009,Rt Hon Sir Jeffrey M. Donaldson MP,3028Lanark and Hamilton East,S14000042,Angela Crawley MP,1552Lancaster and Fleetwood,E14000776,Cat Smith MP,3717Leeds Central,E14000777,Rt Hon Hilary Benn MP,4970Leeds East,E14000778,Richard Burgon MP,2219Leeds North East,E14000779,Fabian Hamilton MP,6836Leeds North West,E14000780,Greg Mulholland MP,5182Leeds West,E14000781,Rachel Reeves MP,3592Leicester East,E14000782,Rt Hon Keith Vaz MP,3515Leicester South,E14000783,Jonathan Ashworth MP,5462Leicester West,E14000784,Liz Kendall MP,2929Leigh,E14000785,Rt Hon Andy Burnham MP,2224Lewes,E14000786,Maria Caulfield MP,6098Lewisham East,E14000787,Heidi Alexander MP,6458Lewisham West and Penge,E14000788,Jim Dowd MP,9083"Lewisham, Deptford",E14000789,Vicky Foxcroft MP,11243Leyton and Wanstead,E14000790,John Cryer MP,7536Lichfield,E14000791,Michael Fabricant MP,3194Lincoln,E14000792,Karl McCartney MP,3682Linlithgow and East Falkirk,S14000043,Martyn Day MP,2104"Liverpool, Riverside",E14000793,Mrs Louise Ellman MP,6999"Liverpool, Walton",E14000794,Steve Rotheram MP,2492"Liverpool, Wavertree",E14000795,Luciana Berger MP,4549"Liverpool, West Derby",E14000796,Stephen Twigg MP,2758Livingston,S14000044,Hannah Bardell MP,2048Llanelli,W07000045,Nia Griffith MP,1881Loughborough,E14000797,Rt Hon Nicky Morgan MP,4287Louth and Horncastle,E14000798,Victoria Atkins MP,2074Ludlow,E14000799,Mr Philip Dunne MP,2988Luton North,E14000800,Kelvin Hopkins MP,2796Luton South,E14000801,Mr Gavin Shuker MP,3215Macclesfield,E14000802,David Rutley MP,5016Maidenhead,E14000803,Rt Hon Theresa May MP,6762Maidstone and The Weald,E14000804,Mrs Helen Grant MP,4118Makerfield,E14000805,Yvonne Fovargue MP,1824Maldon,E14000806,Rt Hon John Whittingdale MP,2860Manchester Central,E14000807,Lucy Powell MP,7579"Manchester, Gorton",E14000808,Rt Hon Sir Gerald Kaufman MP,5847"Manchester, Withington",E14000809,Jeff Smith MP,9335Mansfield,E14000810,Sir Alan Meale MP,1738Meon Valley,E14000811,George Hollingbery MP,4176Meriden,E14000812,Rt Hon Caroline Spelman MP,3581Merthyr Tydfil and Rhymney,W07000071,Gerald Jones MP,1466Mid Bedfordshire,E14000813,Nadine Dorries MP,4521Mid Derbyshire,E14000814,Pauline Latham MP,3488Mid Dorset and North Poole,E14000815,Michael Tomlinson MP,3480Mid Norfolk,E14000816,George Freeman MP,3431Mid Sussex,E14000817,Rt Hon Sir Nicholas Soames MP,6474Mid Ulster,N06000010,Francie Molloy MP,1843Mid Worcestershire,E14000818,Nigel Huddleston MP,3086Middlesbrough,E14000819,Andy McDonald MP,1614Middlesbrough South and East Cleveland,E14000820,Tom Blenkinsop MP,1741Midlothian,S14000045,Owen Thompson MP,1926Milton Keynes North,E14000821,Mark Lancaster MP,5703Milton Keynes South,E14000822,Iain Stewart MP,5758Mitcham and Morden,E14000823,Siobhain McDonagh MP,5036Mole Valley,E14000824,Sir Paul Beresford MP,6458Monmouth,W07000054,David T. C. Davies MP,3894Montgomeryshire,W07000063,Glyn Davies MP,2013Moray,S14000046,Rt Hon Angus Robertson MP,1466Morecambe and Lunesdale,E14000825,David Morris MP,2631Morley and Outwood,E14000826,Andrea Jenkyns MP,2908Motherwell and Wishaw,S14000047,Marion Fellows MP,1000Na h-Eileanan an Iar,S14000027,Angus Brendan MacNeil MP,397Neath,W07000069,Christina Rees MP,1806New Forest East,E14000827,Rt Hon Dr Julian Lewis MP,3414New Forest West,E14000828,Rt Hon Sir Desmond Swayne MP,3785Newark,E14000829,Robert Jenrick MP,3918Newbury,E14000830,Richard Benyon MP,5934Newcastle upon Tyne Central,E14000831,Chi Onwurah MP,3824Newcastle upon Tyne East,E14000832,Rt Hon Nicholas Brown MP,5007Newcastle upon Tyne North,E14000833,Catherine McKinnell MP,3626Newcastle-under-Lyme,E14000834,Paul Farrelly MP,2324Newport East,W07000055,Jessica Morden MP,2016Newport West,W07000056,Paul Flynn MP,2991Newry and Armagh,N06000011,Mickey Brady MP,2472Newton Abbot,E14000835,Anne Marie Morris MP,3413"Normanton, Pontefract and Castleford",E14000836,Rt Hon Yvette Cooper MP,1752North Antrim,N06000012,Ian Paisley MP,1630North Ayrshire and Arran,S14000048,Patricia Gibson MP,1296North Cornwall,E14000837,Scott Mann MP,3088North Devon,E14000838,Peter Heaton-Jones MP,3333North Dorset,E14000839,Simon Hoare MP,3974North Down,N06000013,Lady Hermon MP,3074North Durham,E14000840,Mr Kevan Jones MP,2092North East Bedfordshire,E14000841,Rt Hon Alistair Burt MP,4742North East Cambridgeshire,E14000842,Stephen Barclay MP,2468North East Derbyshire,E14000843,Natascha Engel MP,2502North East Fife,S14000049,Stephen Gethins MP,2685North East Hampshire,E14000844,Mr Ranil Jayawardena MP,5685North East Hertfordshire,E14000845,Sir Oliver Heald QC MP,5074North East Somerset,E14000846,Mr Jacob Rees-Mogg MP,4551North Herefordshire,E14000847,Bill Wiggin MP,3190North Norfolk,E14000848,Rt Hon Norman Lamb MP,2766North Shropshire,E14000849,Rt Hon Owen Paterson MP,2867North Somerset,E14000850,Rt Hon Dr Liam Fox MP,5865North Swindon,E14000851,Justin Tomlinson MP,3391North Thanet,E14000852,Sir Roger Gale MP,2720North Tyneside,E14000853,Mary Glindon MP,2908North Warwickshire,E14000854,Craig Tracey MP,1776North West Cambridgeshire,E14000855,Mr Shailesh Vara MP,4398North West Durham,E14000856,Pat Glass MP,2438North West Hampshire,E14000857,Kit Malthouse MP,4490North West Leicestershire,E14000858,Andrew Bridgen MP,2973North West Norfolk,E14000859,Sir Henry Bellingham MP,2320North Wiltshire,E14000860,James Gray MP,4392Northampton North,E14000861,Michael Ellis MP,2493Northampton South,E14000862,David Mackintosh MP,2880Norwich North,E14000863,Chloe Smith MP,3727Norwich South,E14000864,Clive Lewis MP,7028Nottingham East,E14000865,Chris Leslie MP,4593Nottingham North,E14000866,Mr Graham Allen MP,1780Nottingham South,E14000867,Lilian Greenwood MP,4626Nuneaton,E14000868,Mr Marcus Jones MP,1980Ochil and South Perthshire,S14000050,Ms Tasmina Ahmed-Sheikh MP,2386Ogmore,W07000074,Chris Elmore MP,1703Old Bexley and Sidcup,E14000869,Rt Hon James Brokenshire MP,2856Oldham East and Saddleworth,E14000870,Debbie Abrahams MP,2619Oldham West and Royton,E14000871,Jim McMahon MP,2705Orkney and Shetland,S14000051,Rt Hon Alistair Carmichael MP,935Orpington,E14000872,Joseph Johnson MP,3900Oxford East,E14000873,Rt Hon Andrew Smith MP,10485Oxford West and Abingdon,E14000874,Nicola Blackwood MP,10259Paisley and Renfrewshire North,S14000052,Gavin Newlands MP,1694Paisley and Renfrewshire South,S14000053,Mhairi Black MP,1520Pendle,E14000875,Andrew Stephenson MP,1904Penistone and Stocksbridge,E14000876,Angela Smith MP,2611Penrith and The Border,E14000877,Rory Stewart MP,2796Perth and North Perthshire,S14000054,Pete Wishart MP,2179Peterborough,E14000878,Mr Stewart Jackson MP,3085"Plymouth, Moor View",E14000879,Johnny Mercer MP,1745"Plymouth, Sutton and Devonport",E14000880,Oliver Colvile MP,4571Pontypridd,W07000075,Owen Smith MP,2724Poole,E14000881,Mr Robert Syms MP,3833Poplar and Limehouse,E14000882,Jim Fitzpatrick MP,12274Portsmouth North,E14000883,Penny Mordaunt MP,2704Portsmouth South,E14000884,Mrs Flick Drummond MP,4663Preseli Pembrokeshire,W07000065,Rt Hon Stephen Crabb MP,2256Preston,E14000885,Mr Mark Hendrick MP,2790Pudsey,E14000886,Stuart Andrew MP,4709Putney,E14000887,Rt Hon Justine Greening MP,10186Rayleigh and Wickford,E14000888,Rt Hon Mark Francois MP,2392Reading East,E14000889,Mr Rob Wilson MP,7514Reading West,E14000890,Alok Sharma MP,4889Redcar,E14000891,Anna Turley MP,1252Redditch,E14000892,Karen Lumley MP,2328Reigate,E14000893,Crispin Blunt MP,6028Rhondda,W07000052,Chris Bryant MP,1240Ribble Valley,E14000894,Mr Nigel Evans MP,3042Richmond (Yorks),E14000895,Rishi Sunak MP,3308Richmond Park,E14000896,Zac Goldsmith MP,13476Rochdale,E14000897,Simon Danczuk MP,2742Rochester and Strood,E14000898,Kelly Tolhurst MP,3095Rochford and Southend East,E14000899,James Duddridge MP,2847Romford,E14000900,Andrew Rosindell MP,2727Romsey and Southampton North,E14000901,Caroline Nokes MP,4922"Ross, Skye and Lochaber",S14000055,Ian Blackford MP,1675Rossendale and Darwen,E14000902,Jake Berry MP,2581Rother Valley,E14000903,Rt Hon Kevin Barron MP,1880Rotherham,E14000904,Sarah Champion MP,1529Rugby,E14000905,Mark Pawsey MP,3367"Ruislip, Northwood and Pinner",E14000906,Mr Nick Hurd MP,5875Runnymede and Weybridge,E14000907,Rt Hon Philip Hammond MP,5759Rushcliffe,E14000908,Rt Hon Kenneth Clarke QC MP,6388Rutherglen and Hamilton West,S14000056,Margaret Ferrier MP,1678Rutland and Melton,E14000909,Rt Hon Sir Alan Duncan MP,4232Saffron Walden,E14000910,Rt Hon Sir Alan Haselhurst MP,5367Salford and Eccles,E14000911,Rebecca Long Bailey MP,4771Salisbury,E14000912,John Glen MP,4743Scarborough and Whitby,E14000913,Mr Robert Goodwill MP,2408Scunthorpe,E14000914,Nic Dakin MP,1385Sedgefield,E14000915,Phil Wilson MP,1740Sefton Central,E14000916,Bill Esterson MP,3860Selby and Ainsty,E14000917,Nigel Adams MP,3492Sevenoaks,E14000918,Rt Hon Michael Fallon MP,4827Sheffield Central,E14000919,Paul Blomfield MP,7313Sheffield South East,E14000920,Mr Clive Betts MP,2060"Sheffield, Brightside and Hillsborough",E14000921,Gill Furniss MP,2512"Sheffield, Hallam",E14000922,Rt Hon Nick Clegg MP,7265"Sheffield, Heeley",E14000923,Louise Haigh MP,3369Sherwood,E14000924,Mark Spencer MP,2420Shipley,E14000925,Philip Davies MP,4054Shrewsbury and Atcham,E14000926,Daniel Kawczynski MP,4247Sittingbourne and Sheppey,E14000927,Gordon Henderson MP,2326Skipton and Ripon,E14000928,Julian Smith MP,4251Sleaford and North Hykeham,E14000929,Stephen Phillips QC MP,3398Slough,E14000930,Rt Hon Fiona Mactaggart MP,4627Solihull,E14000931,Julian Knight MP,4137Somerton and Frome,E14000932,David Warburton MP,5138South Antrim,N06000014,Danny Kinahan MP,2391South Basildon and East Thurrock,E14000933,Stephen Metcalfe MP,1780South Cambridgeshire,E14000934,Heidi Allen MP,9131South Derbyshire,E14000935,Heather Wheeler MP,2856South Dorset,E14000936,Richard Drax MP,3096South Down,N06000015,Ms Margaret Ritchie MP,3204South East Cambridgeshire,E14000937,Lucy Frazer MP,7475South East Cornwall,E14000938,Mrs Sheryll Murray MP,3206South Holland and The Deepings,E14000939,Rt Hon John Hayes MP,2034South Leicestershire,E14000940,Alberto Costa MP,3358South Norfolk,E14000941,Mr Richard Bacon MP,4960South Northamptonshire,E14000942,Andrea Leadsom MP,4846South Ribble,E14000943,Seema Kennedy MP,2977South Shields,E14000944,Mrs Emma Lewell-Buck MP,1561South Staffordshire,E14000945,Rt Hon Gavin Williamson MP,2043South Suffolk,E14000946,James Cartlidge MP,3985South Swindon,E14000947,Robert Buckland MP,4098South Thanet,E14000948,Craig Mackinlay MP,3369South West Bedfordshire,E14000949,Andrew Selous MP,3602South West Devon,E14000950,Mr Gary Streeter MP,3527South West Hertfordshire,E14000951,Mr David Gauke MP,7020South West Norfolk,E14000952,Rt Hon Elizabeth Truss MP,2383South West Surrey,E14000953,Rt Hon Jeremy Hunt MP,7856South West Wiltshire,E14000954,Dr Andrew Murrison MP,3754"Southampton, Itchen",E14000955,Royston Smith MP,3660"Southampton, Test",E14000956,Dr Alan Whitehead MP,4859Southend West,E14000957,Sir David Amess MP,3387Southport,E14000958,John Pugh MP,3377Spelthorne,E14000959,Kwasi Kwarteng MP,3746St Albans,E14000960,Mrs Anne Main MP,8451St Austell and Newquay,E14000961,Steve Double MP,3081St Helens North,E14000962,Conor McGinn MP,2337St Helens South and Whiston,E14000963,Marie Rimmer MP,2659St Ives,E14000964,Derek Thomas MP,3490Stafford,E14000965,Jeremy Lefroy MP,2953Staffordshire Moorlands,E14000966,Karen Bradley MP,2012Stalybridge and Hyde,E14000967,Jonathan Reynolds MP,2705Stevenage,E14000968,Stephen McPartland MP,3275Stirling,S14000057,Steven Paterson MP,2919Stockport,E14000969,Ann Coffey MP,4217Stockton North,E14000970,Alex Cunningham MP,1505Stockton South,E14000971,James Wharton MP,2552Stoke-on-Trent Central,E14000972,Tristram Hunt MP,1684Stoke-on-Trent North,E14000973,Ruth Smeeth MP,1483Stoke-on-Trent South,E14000974,Robert Flello MP,1456Stone,E14000975,Sir William Cash MP,2621Stourbridge,E14000976,Margot James MP,2364Strangford,N06000016,Jim Shannon MP,1972Stratford-on-Avon,E14000977,Nadhim Zahawi MP,4617Streatham,E14000978,Mr Chuka Umunna MP,11858Stretford and Urmston,E14000979,Kate Green MP,4857Stroud,E14000980,Neil Carmichael MP,6099Suffolk Coastal,E14000981,Dr Th̩r̬se Coffey MP,4500Sunderland Central,E14000982,Julie Elliott MP,2272Surrey Heath,E14000983,Rt Hon Michael Gove MP,5392Sutton and Cheam,E14000984,Paul Scully MP,5130Sutton Coldfield,E14000985,Rt Hon Andrew Mitchell MP,4148Swansea East,W07000048,Carolyn Harris MP,1824Swansea West,W07000047,Geraint Davies MP,3467Tamworth,E14000986,Christopher Pincher MP,2178Tatton,E14000987,Rt Hon George Osborne MP,4889Taunton Deane,E14000988,Rebecca Pow MP,4466Telford,E14000989,Lucy Allan MP,1919Tewkesbury,E14000990,Mr Laurence Robertson MP,4218The Cotswolds,E14000991,Geoffrey Clifton-Brown MP,5683The Wrekin,E14000992,Mark Pritchard MP,2455Thirsk and Malton,E14000993,Kevin Hollinrake MP,3451Thornbury and Yate,E14000994,Luke Hall MP,3513Thurrock,E14000995,Jackie Doyle-Price MP,2488Tiverton and Honiton,E14000996,Neil Parish MP,3728Tonbridge and Malling,E14000997,Tom Tugendhat MP,4965Tooting,E14000998,Dr Rosena Allin-Khan MP,11589Torbay,E14000999,Kevin Foster MP,2809Torfaen,W07000053,Nick Thomas-Symonds MP,1740Torridge and West Devon,E14001000,Mr Geoffrey Cox QC MP,3765Totnes,E14001001,Dr Sarah Wollaston MP,4411Tottenham,E14001002,Rt Hon David Lammy MP,8348Truro and Falmouth,E14001003,Sarah Newton MP,5524Tunbridge Wells,E14001004,Rt Hon Greg Clark MP,6823Twickenham,E14001005,Dr Tania Mathias MP,11539Tynemouth,E14001006,Rt Hon Alan Campbell MP,4384Upper Bann,N06000017,David Simpson MP,2366Uxbridge and South Ruislip,E14001007,Boris Johnson MP,4292Vale of Clwyd,W07000060,Dr James Davies MP,1925Vale of Glamorgan,W07000078,Rt Hon Alun Cairns MP,3716Vauxhall,E14001008,Kate Hoey MP,12175Wakefield,E14001009,Mary Creagh MP,2231Wallasey,E14001010,Ms Angela Eagle MP,3231Walsall North,E14001011,Mr David Winnick MP,1082Walsall South,E14001012,Valerie Vaz MP,2422Walthamstow,E14001013,Stella Creasy MP,8019Wansbeck,E14001014,Ian Lavery MP,2059Wantage,E14001015,Mr Edward Vaizey MP,6918Warley,E14001016,Rt Hon John Spellar MP,2358Warrington North,E14001017,Helen Jones MP,2834Warrington South,E14001018,David Mowat MP,4720Warwick and Leamington,E14001019,Chris White MP,6627Washington and Sunderland West,E14001020,Mrs Sharon Hodgson MP,1694Watford,E14001021,Richard Harrington MP,5561Waveney,E14001022,Peter Aldous MP,2586Wealden,E14001023,Nusrat Ghani MP,5703Weaver Vale,E14001024,Graham Evans MP,3571Wellingborough,E14001025,Mr Peter Bone MP,2843Wells,E14001026,James Heappey MP,4269Welwyn Hatfield,E14001027,Rt Hon Grant Shapps MP,4746Wentworth and Dearne,E14001028,Rt Hon John Healey MP,1463West Aberdeenshire and Kincardine,S14000058,Stuart Blair Donaldson MP,2905West Bromwich East,E14001029,Tom Watson MP,1657West Bromwich West,E14001030,Mr Adrian Bailey MP,1379West Dorset,E14001031,Rt Hon Oliver Letwin MP,4965West Dunbartonshire,S14000059,Martin Docherty-Hughes MP,1168West Ham,E14001032,Lyn Brown MP,8667West Lancashire,E14001033,Rosie Cooper MP,3299West Suffolk,E14001034,Rt Hon Matthew Hancock MP,3283West Tyrone,N06000018,Mr Pat Doherty MP,1991West Worcestershire,E14001035,Harriett Baldwin MP,4294Westminster North,E14001036,Ms Karen Buck MP,10951Westmorland and Lonsdale,E14001037,Tim Farron MP,4360Weston-super-Mare,E14001038,John Penrose MP,3543Wigan,E14001039,Lisa Nandy MP,2079Wimbledon,E14001040,Stephen Hammond MP,10269Winchester,E14001041,Steve Brine MP,7575Windsor,E14001042,Adam Afriyie MP,6038Wirral South,E14001043,Alison McGovern MP,3300Wirral West,E14001044,Margaret Greenwood MP,3550Witham,E14001045,Rt Hon Priti Patel MP,3041Witney,E14001046,Rt Hon David Cameron MP,6814Woking,E14001047,Mr Jonathan Lord MP,6563Wokingham,E14001048,Rt Hon John Redwood MP,6842Wolverhampton North East,E14001049,Emma Reynolds MP,1382Wolverhampton South East,E14001050,Rt Hon Pat McFadden MP,1280Wolverhampton South West,E14001051,Rob Marris MP,2612Worcester,E14001052,Mr Robin Walker MP,3990Workington,E14001053,Sue Hayman MP,1823Worsley and Eccles South,E14001054,Barbara Keeley MP,3853Worthing West,E14001055,Sir Peter Bottomley MP,4173Wrexham,W07000044,Ian C. Lucas MP,1968Wycombe,E14001056,Mr Steve Baker MP,5361Wyre and Preston North,E14001057,Mr Ben Wallace MP,3093Wyre Forest,E14001058,Mark Garnier MP,2519Wythenshawe and Sale East,E14001059,Mike Kane MP,4283Yeovil,E14001060,Marcus Fysh MP,3103Ynys M̫n,W07000041,Albert Owen MP,2295York Central,E14001061,Rachael Maskell MP,6665York Outer,E14001062,Julian Sturdy MP,4900

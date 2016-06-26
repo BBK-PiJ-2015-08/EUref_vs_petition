@@ -4,3 +4,4 @@ Validate using http://jsonlint.com/
 Remove irrelevant attributes, and non-UK signatures
 Revalidate JSON
 Convert JSON to CSV using http://konklone.io/json/
+Open up CSV, take out top row, sort Ascending by constituency name (do expand selection).
